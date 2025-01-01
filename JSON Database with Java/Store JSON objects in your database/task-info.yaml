@@ -1,0 +1,27 @@
+type: edu
+files:
+  - name: src/client/Main.java
+    visible: true
+    learner_created: false
+  - name: src/server/Main.java
+    visible: true
+    learner_created: false
+  - name: test/JsonDatabaseTest.java
+    visible: false
+    learner_created: false
+  - name: test/JsonFinder.java
+    visible: false
+    learner_created: false
+  - name: test/JsonRequestBuilder.java
+    visible: false
+    learner_created: false
+  - name: db.json
+    visible: true
+    learner_created: true
+feedback_link: https://hyperskill.org/projects/65/stages/353/implement#comment
+status: Solved
+feedback:
+  message: Well done! You've finished the project. Select a new project on <a href="https://hyperskill.org/projects">Hyperskill</a>
+    to continue learning.
+  time: "Wed, 01 Jan 2025 18:35:18 UTC"
+record: -1

@@ -1,0 +1,14 @@
+type: edu
+files:
+  - name: src/client/Main.java
+    visible: true
+    learner_created: false
+  - name: src/server/Main.java
+    visible: true
+    learner_created: false
+  - name: test/JsonDatabaseTest.java
+    visible: false
+    learner_created: false
+feedback_link: https://hyperskill.org/projects/65/stages/349/implement#comment
+status: Solved
+record: 2
